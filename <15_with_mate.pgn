@@ -1,0 +1,585 @@
+[Event "London"]
+[Site "London"]
+[Date "1851.??.??"]
+[Round "1"]
+[White "Staunton, Howard"]
+[Black "Brodie"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C44"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O Qf6 7. e5 Qe7 8. a3 cxb2 9. Bxb2 Bc5 10. Nc3 d6 11. Nd5 Qd8 12. exd6 Bxd6 13. Bxg7 Bg4 14. Re1+ Nge7 15. Nf6# 1-0
+
+[Event "Breslau m"]
+[Site "Breslau"]
+[Date "1865.??.??"]
+[Round "?"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C60"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 d6 5. d4 Bd7 6. O-O Ng6 7. Ng5 h6 8. Nxf7 Kxf7 9. Bc4+ Ke7 10. Qh5 Qe8 11. Qg5+ hxg5 12. Bxg5# 1-0
+
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1911.??.??"]
+[Round "?"]
+[White "Alekhine, Alexander"]
+[Black "Tenner, Oscar"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C30"]
+[WhiteElo ""]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nc3 d6 5. f4 Nc6 6. Nf3 Bg4 7. Na4 exf4 8. Nxc5 dxc5 9. Bxf4 Nh5 10. Be3 Ne5 11. Nxe5 Bxd1 12. Bxf7+ Ke7 13. Bxc5+ Kf6 14. O-O+ Kxe5 15. Rf5# 1-0
+
+[Event "Paris"]
+[Site "Paris"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Rodzinski"]
+[Black "Alekhine, Alexander"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "C50"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. c3 Bg4 5. Qb3 Qd7 6. Ng5 Nh6 7. Bxf7+ Nxf7 8. Nxf7 Qxf7 9. Qxb7 Kd7 10. Qxa8 Qc4 11. f3 Bxf3 12. gxf3 Nd4 13. d3 Qxd3 14. cxd4 Be7 15. Qxh8 Bh4# 0-1
+
+[Event "GB tour sim"]
+[Site "Great Britain"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Alekhine, Alexander"]
+[Black "Forrester"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C77"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. Nxe5 Nxe5 7. d4 Bb4 8. dxe5 Nxe4 9. Qd4 Nxc3 10. bxc3 Ba5 11. Ba3 b6 12. e6 Qf6 13. Bxd7+ Kd8 14. Bc6+ Qxd4 15. e7# 1-0
+
+[Event "IM Not A GM Speed Chess"]
+[Site "chess.com INT"]
+[Date "2020.04.23"]
+[Round "1.22"]
+[White "Rosen,E"]
+[Black "Paehtz,E"]
+[Result "1-0"]
+[BlackElo "2473"]
+[ECO "C70"]
+[WhiteElo "2353"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. Bxf7+ Kxf7 7. Nxe5+ Kf6 8. d4 g6 9. Qf3+ Ke6 10. Qf7+ Kd6 11. Qd5+ Ke7 12. Qf7+ Kd6 13. Bf4 Ne7 14. Qf6# 1-0
+
+[Event "Isolated Queens Swiss II"]
+[Site "chess.com INT"]
+[Date "2020.05.02"]
+[Round "6"]
+[White "Paehtz,E"]
+[Black "Khachatryan,Anna"]
+[Result "1-0"]
+[BlackElo "2071"]
+[ECO "A46"]
+[WhiteElo "2473"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 d5 5. c3 Bd6 6. Bg3 O-O 7. Nbd2 Qc7 8. Ne5 Nfd7 9. f4 Nc6 10. Bd3 b6 11. O-O Bb7 12. Qh5 Nd8 13. Qxh7# 1-0
+
+[Event "Marshall v Mechanics Match"]
+[Site "ICC INT"]
+[Date "2003.09.28"]
+[Round "1"]
+[White "Caruana,F"]
+[Black "Wang,Drake"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B11"]
+[WhiteElo "2160"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d3 Bd6 7. Qg4 Qf6 8. Bg5 Qg6 9. exd5 exd5 10. Qc8# 1-0
+
+[Event "Titled Arena Mar 6th 2021"]
+[Site "lichess.org INT"]
+[Date "2021.03.06"]
+[Round "?"]
+[White "Andreikin,D"]
+[Black "Beerdsen,Thomas"]
+[Result "1-0"]
+[BlackElo "2453"]
+[ECO "A10"]
+[WhiteElo "2725"]
+
+1. c4 b5 2. Nc3 bxc4 3. e3 g6 4. Bxc4 Bg7 5. Qf3 Nc6 6. Qxf7# 1-0
+
+[Event "Zuerich sim"]
+[Site "Zuerich"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Kavalek, Lubomir"]
+[Black "Schmidt, D."]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B03"]
+[WhiteElo "2560"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 e6 4. Nf3 Bb4+ 5. c3 Be7 6. Bd3 Nc6 7. O-O O-O 8. Qe2 Na5 9. Qe4 c6 10. Qxh7# 1-0
+
+[Event "Wch U12"]
+[Site "Bratislava"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Vallejo Pons, Francisco"]
+[Black "Dahmani, Nasim"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C14"]
+[WhiteElo ""]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. f4 c5 8. Nf3 Nc6 9. Bd3 cxd4 10. Nb5 O-O 11. Bxh7+ Kxh7 12. Ng5+ Kh6 13. Qd3 g6 14. Qh3+ Kg7 15. Qh7# 1-0
+
+[Event "Scarborough CC Shirov simul"]
+[Site "Toronto CAN"]
+[Date "2010.02.18"]
+[Round "1"]
+[White "Shirov,A"]
+[Black "Liu Jiaxin"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B94"]
+[WhiteElo "2732"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 e6 8. Qe2 Qc7 9. O-O-O b5 10. Bxe6 fxe6 11. Nxe6 Qc6 12. Nd5 Nxd5 13. exd5 Qc4 14. Nc7+ Kf7 15. Qe6# 1-0
+
+[Event "GER tour sim"]
+[Site "Germany"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "C31"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. Nc4 Bxf4 6. Nc3 Qh4+ 7. g3 Bxg3+ 8. Ke2 Bg4+ 9. Ke3 Bf2+ 10. Kxe4 Be2+ 11. Kd5 Ne7+ 12. Ke5 Nd7# 0-1
+
+[Event "USA tour sim"]
+[Site "USA"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Lasker, Emanuel"]
+[Black "Mc Bride, CR."]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C30"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 f6 4. Bc4 exf4 5. d4 g5 6. Nxg5 h6 7. Qh5+ Ke7 8. Qf7+ Kd6 9. e5+ fxe5 10. Ne4# 1-0
+
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1870.??.??"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "Walsh"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B30"]
+[WhiteElo ""]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 h6 4. d4 cxd4 5. Nxd4 Qb6 6. Be3 Qxb2 7. Ndb5 Qb4 8. Nc7+ Kd8 9. Bd2 Rb8 10. Rb1 Qd4 11. Bd3 Nb4 12. N3b5 Nxd3+ 13. cxd3 Qxd3 14. Ne6+ Ke8 15. Nbc7# 1-0
+
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1873.??.??"]
+[Round "?"]
+[White "Steinitz, William"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C30"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Nf6 4. fxe5 Nxe4 5. d3 Nc5 6. d4 Na6 7. Bc4 Qe7 8. Nc3 h6 9. O-O g5 10. Nd5 Qd8 11. Nf6+ Ke7 12. Nxg5 hxg5 13. Qh5 Rxh5 14. Ng8+ Ke8 15. Bxf7# 1-0
+
+[Event "Politiken Cup 2014"]
+[Site "Helsingor DEN"]
+[Date "2014.07.21"]
+[Round "1.2"]
+[White "Rapport,R"]
+[Black "Rogers,Tim L"]
+[Result "1-0"]
+[BlackElo "2011"]
+[ECO "B10"]
+[WhiteElo "2701"]
+
+1. e4 c6 2. Nc3 d5 3. Qe2 dxe4 4. Nxe4 Nd7 5. Nd6# 1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Reti, Richard"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B15"]
+[WhiteElo ""]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qd3 e5 6. dxe5 Qa5+ 7. Bd2 Qxe5 8. O-O-O Nxe4 9. Qd8+ Kxd8 10. Bg5+ Kc7 11. Bd8# 1-0
+
+[Event "Bonn GSK"]
+[Site "Bonn"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Wojtkiewicz, Aleksander"]
+[Black "Shabalov, Alexander"]
+[Result "1/2-1/2"]
+[BlackElo "2590"]
+[ECO "A53"]
+[WhiteElo "2560"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 5. d5 e4 6. g4 Nxg4 7. fxg4 Qh4+ 8. Kd2 e3+ 9. Kxe3 Qg5+ 10. Kd4 c5+ 11. dxc6 Nxc6+ 12. Kd5 Qe7 13. gxf5 Qe5# 1/2-1/2
+
+[Event "?"]
+[Site "Baden-Baden it, GER"]
+[Date "1925.??.??"]
+[Round "16"]
+[White "Gruenfeld Ernst F"]
+[Black "Torre Repetto Carlos (MEX)"]
+[Result "0-1"]
+[ECO "A90"]
+
+1. d4 e6 2. Nf3 f5 3. g3 Nf6 4. Bg2 d5 5. O-O Bd6 6. c4 c6 7. Qc2 O-O 8. b3 Ne4 9. Bb2 Nd7 10. Ne5 Qf6 11. f3 Nxe5 12. dxe5 Bc5+ 13. Kh1 Nxg3+ 14. hxg3 Qh6+ 15. Bh3 Qxh3# 0-1
+
+[Event "New Orleans, USA"]
+[Site "New Orleans, USA"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Dupre"]
+[Black "Carlos Torre Repetto"]
+[Result "0-1"]
+[BlackElo "?"]
+[ECO "C41"]
+[EventDate "?"]
+[PlyCount "20"]
+[WhiteElo "?"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. Bc4 exd4 5. exf5 Qe7+ 6. Kd2 g6 7. Re1 Bh6+ 8. Kd3 Bxf5+ 9. Kxd4 Bg7+ 10. Kd5 c6# 0-1
+
+[Event "CZE-ch U10"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "6"]
+[White "Spaniel, M."]
+[Black "Navara, David"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "B30"]
+[WhiteElo ""]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. Nc3 Nc6 5. O-O Bg4 6. d3 Nd4 7. Bd5 Nxd5 8. Nxd5 e6 9. Nc3 Qf6 10. Be3 Nxf3+ 11. gxf3 Bxf3 12. Qc1 Qh4 13. Nb5 Qg4# 0-1
+
+[Event "Stockholm ol"]
+[Site "Stockholm"]
+[Date "1937.??.??"]
+[Round "10"]
+[White "Kostic, Boris"]
+[Black "Keres, Paul"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C55"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. O-O d5 6. exd5 Nxd5 7. Ng5 Be7 8. Nxf7 Kxf7 9. Qh5+ g6 10. Bxd5+ Kg7 11. Bh6+ Kf6 12. Qg5# 1-0
+
+[Event "Szcawno Zdroj"]
+[Site "Szcawno Zdroj"]
+[Date "1950.??.??"]
+[Round "?"]
+[White "Keres, Paul"]
+[Black "Arlamowski, Edward"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B10"]
+[WhiteElo ""]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nbd7 6. Nd6# 1-0
+
+[Event "Bad Mergentheim sim"]
+[Site "Bad Mergentheim"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Anand, Viswanathan"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B23"]
+[WhiteElo "2710"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e5 4. Nd5 Nge7 5. Nec3 a6 6. a4 g6 7. Nf6# 1-0
+
+[Event "Wch U10"]
+[Site "Duisburg"]
+[Date "1992.??.??"]
+[Round "1"]
+[White "Grischuk, Alexander"]
+[Black "Simons, Rudi"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C70"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. Ng5 Be7 7. Nxf7 Rf8 8. Nxd8 Bxd8 9. O-O Nxe4 10. Qh5+ g6 11. Qxh7 Ng5 12. Qxg6+ Nf7 13. d3 a5 14. Bh6 Rg8 15. Qxf7# 1-0
+
+[Event "GER tour sim"]
+[Site "Germany"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Fernandez"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C25"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 d6 4. Nf3 a6 5. Bc4 Bg4 6. fxe5 Nxe5 7. Nxe5 Bxd1 8. Bxf7+ Ke7 9. Nd5# 1-0
+
+[Event "GER tour sim"]
+[Site "Germany"]
+[Date "1902.??.??"]
+[Round "?"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Magana"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B00"]
+[WhiteElo ""]
+
+1. e4 f5 2. exf5 Kf7 3. d4 d5 4. Qh5+ g6 5. fxg6+ Kg7 6. Bd3 Nf6 7. Bh6+ Kg8 8. gxh7+ Nxh7 9. Qg6+ Bg7 10. Qxg7# 1-0
+
+[Event "3rd Rapid Open"]
+[Site "Ajaccio FRA"]
+[Date "2006.10.30"]
+[Round "1"]
+[White "Barhoumi,Rached"]
+[Black "Sasikiran,K"]
+[Result "0-1"]
+[BlackElo "2675"]
+[ECO "A00"]
+[WhiteElo ""]
+
+1. Na3 d5 2. Nb5 Nf6 3. a4 a6 4. Ra3 axb5 5. axb5 Rxa3 6. h4 Ra1 7. d4 Bf5 8. Qd2 e6 9. Qa5 Rxa5 10. c4 dxc4 11. Kd2 Qxd4+ 12. Ke1 Bb4+ 13. Bd2 Ra1# 0-1
+
+[Event "Bonn GSK"]
+[Site "Bonn"]
+[Date "1994.??.??"]
+[Round "6"]
+[White "Wojtkiewicz, Aleksander"]
+[Black "Shabalov, Alexander"]
+[Result "1/2-1/2"]
+[BlackElo "2590"]
+[ECO "A53"]
+[WhiteElo "2560"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 5. d5 e4 6. g4 Nxg4 7. fxg4 Qh4+ 8. Kd2 e3+ 9. Kxe3 Qg5+ 10. Kd4 c5+ 11. dxc6 Nxc6+ 12. Kd5 Qe7 13. gxf5 Qe5# 1/2-1/2
+
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1869.??.??"]
+[Round "?"]
+[White "Bird, Henry Edward"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C37"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4 5. Ne5 Qh4+ 6. g3 fxg3 7. Qxg4 g2+ 8. Qxh4 gxh1=Q 9. Nc3 Be7 10. Qh5 Nc6 11. Nxf7 Nf6 12. Nd6+ Kd8 13. Qe8+ Rxe8 14. Nf7# 1-0
+
+[Event "Simul"]
+[Site "Aubervilliers FRA"]
+[Date "2003.01.26"]
+[Round "1"]
+[White "Vachier Lagrave,M"]
+[Black "Shakibi,Sohein"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B01"]
+[WhiteElo "2348"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Qd6 5. Nf3 Bg4 6. d4 Bxf3 7. Bxf3 Nc6 8. O-O O-O-O 9. Nb5 Qe6 10. d5 Qf6 11. dxc6 Rxd1 12. cxb7+ Kb8 13. Rxd1 e6 14. Be3 Qxb2 15. Bxa7# 1-0
+
+[Event "Galicia simul"]
+[Site "Galicia"]
+[Date "1991.??.??"]
+[Round "?"]
+[White "Kasparov, Gary"]
+[Black "Cid, D."]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C62"]
+[WhiteElo "2800"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 f6 5. c3 Bg4 6. h3 Bh5 7. Nbd2 Be7 8. Qa4 Qd7 9. d5 O-O-O 10. dxc6 bxc6 11. Ba6+ Kb8 12. Qb3+ Ka8 13. Qb7# 1-0
+
+[Event "Alabama "]
+[Site "Alabama"]
+[Date "1855.??.??"]
+[Round "?"]
+[White "Morphy, Paul "]
+[Black "Maurian, Charles Amedee"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "C33"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 b5 5. Bd5 Nc6 6. Nf3 Qh5 7. d4 Nf6 8. Bb3 Ba6 9. Qe2 Nxd4 10. Nxd4 b4 11. Qxa6 Qd1+ 12. Kf2 Ng4# 0-1
+
+[Event "England sim"]
+[Site "England"]
+[Date "1830.??.??"]
+[Round "?"]
+[White "McDonnell, Alexander"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C37"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Nc3 gxf3 6. O-O fxg2 7. Rxf4 f6 8. Qh5+ Ke7 9. Qf7+ Kd6 10. e5+ Kxe5 11. Re4+ Kd6 12. Qd5# 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1830.??.??"]
+[Round "?"]
+[White "McDonnell, Alexander"]
+[Black "NN"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C33"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 d6 5. d4 g5 6. h4 gxh4 7. Bxf4 Bg4 8. Nf3 Be7 9. Qd2 h3 10. Ng5 d5 11. Nxd5 Bh5 12. Nxc7+ Kf8 13. Nxf7 Bxf7 14. Bh6+ Kg8 15. Qg5# 1-0
+
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1910.??.??"]
+[Round "?"]
+[White "Reti, Richard"]
+[Black "Tartakower, Saviely"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "B15"]
+[WhiteElo ""]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qd3 e5 6. dxe5 Qa5+ 7. Bd2 Qxe5 8. O-O-O Nxe4 9. Qd8+ Kxd8 10. Bg5+ Kc7 11. Bd8# 1-0
+
+[Event "GBR-ch"]
+[Site "London"]
+[Date "1868.??.??"]
+[Round "?"]
+[White "Thompson, D."]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "C37"]
+[WhiteElo ""]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 g4 5. Ne5 Qh4+ 6. Kd2 Qf2+ 7. Kc3 Nc6 8. a3 d6 9. Nxc6 bxc6 10. Bd3 Rb8 11. Rf1 Qxd4+ 12. Kxd4 Bg7+ 13. e5 Bxe5+ 14. Ke4 Nf6# 0-1
+
+[Event "USA-03.Congress"]
+[Site "Chicago"]
+[Date "1874.??.??"]
+[Round "1"]
+[White "Bock, Frederic"]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "C25"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Bg4+ 7. Nf3 O-O-O 8. dxc6 Bc5 9. Qd3 Nh6 10. Qb5 Rhe8+ 11. Kd3 bxc6 12. Qa6+ Kb8 13. Nxh4 Rxd4# 0-1
+
+[Event "ch-Euro Blitz"]
+[Site "Ajaccio FRA"]
+[Date "2007.10.25"]
+[Round "9"]
+[White "Michel Lanes,Felix"]
+[Black "Jussupow,Ar"]
+[Result "0-1"]
+[BlackElo "2583"]
+[ECO "C00"]
+[WhiteElo ""]
+
+1. e4 e6 2. Bc4 d5 3. exd5 exd5 4. Bxd5 Qxd5 5. c4 Qxg2 6. d4 Qxh1 7. Kf1 Bh3+ 8. Ke2 Bg4+ 9. Kd3 Bxd1 10. Nf3 Qxf3+ 11. Kd2 Qe2+ 12. Kc3 Qc2# 0-1
+
+[Event "Breslau m"]
+[Site "Breslau"]
+[Date "1865.??.??"]
+[Round "?"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Anderssen, Adolf"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C60"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 d6 5. d4 Bd7 6. O-O Ng6 7. Ng5 h6 8. Nxf7 Kxf7 9. Bc4+ Ke7 10. Qh5 Qe8 11. Qg5+ hxg5 12. Bxg5# 1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1902.??.??"]
+[Round "15"]
+[White "Reggio, Arturo"]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[BlackElo ""]
+[ECO "B45"]
+[WhiteElo ""]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 cxd4 5. Nxd4 Nf6 6. Ndb5 Bb4 7. Bf4 Nxe4 8. Nc7+ Kf8 9. Nxa8 Qf6 10. Qf3 Nxc3 11. Bd2 Nd4 12. Qd3 Qe5+ 13. Be3 Na4+ 14. c3 Nxb2 15. Qb1 Bxc3# 0-1
+
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.??.??"]
+[Round "29"]
+[White "Chigorin, Mikhail"]
+[Black "Gossip, George Hatfeild"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "C44"]
+[WhiteElo ""]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 f6 5. Bb5 Ne7 6. exd5 Qxd5 7. O-O Bd7 8. d4 e4 9. Nfd2 Ng6 10. Bc4 Qa5 11. Qb3 f5 12. Bf7+ Ke7 13. Nc4 Qa6 14. Bg5+ Kxf7 15. Nd6# 1-0
+
+[Event "CAN-op"]
+[Site "Montreal"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Berliner, Hans Jack"]
+[Black "Rott"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "D06"]
+[WhiteElo ""]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Nc3 Nc6 6. Nf3 Bg4 7. d5 Ne5 8. Nxe5 Bxd1 9. Bb5+ c6 10. dxc6 Qb8 11. c7+ Nd7 12. Bxd7# 1-0
+
+[Event "Semmering"]
+[Site "Semmering"]
+[Date "1926.??.??"]
+[Round "?"]
+[White "Janowsky, Dawid Markelowicz"]
+[Black "Michel, Walter"]
+[Result "1-0"]
+[BlackElo ""]
+[ECO "D00"]
+[WhiteElo ""]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 e6 4. Bd3 c5 5. c3 Nbd7 6. f4 Qb6 7. Qc2 c4 8. Be2 Ne4 9. Bh4 f5 10. Nf3 Qa5 11. Ne5 b5 12. Nd2 Nxd2 13. Bh5+ g6 14. Nxg6 Nb6 15. Ne5# 1-0
+
